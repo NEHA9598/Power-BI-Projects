@@ -1,3 +1,2 @@
 # Power-BI-Projects
-Download raw pbix file
-Open with Power BI Desktop
+Download raw pbix file and open with Power BI Desktop
